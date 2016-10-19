@@ -1,2 +1,2 @@
 # Spacemacs-Presentation
-Spacemacs basics presentation
+Link to the presentation https://dzmitry-kremez-itechart.github.io/Spacemacs-Presentation/
